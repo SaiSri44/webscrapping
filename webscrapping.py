@@ -85,3 +85,4 @@ div_classses = soup.find('div')['class'] #by soup.find('div) we get the first di
 #     print(para.get('name'))   # In this page there are no name because it doesn't use backend
 #     
 print()
+
